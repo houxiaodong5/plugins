@@ -1,5 +1,5 @@
     
-   #使用lfs上传大文件至github
+#使用lfs上传大文件至github
 
 ### 1.安装
     git lfs install
